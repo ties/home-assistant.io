@@ -63,6 +63,9 @@ weather:
 
 This platform is an alternative to the [`buienradar`](/components/sensor.buienradar/) sensor.
 The weather platform is easier to configure but less customizable.
+  
+The radar image from Buienradar is also available using the ['buienradar camera'](/compponents/camera.buienradar/).
+This needs to be configured independently from the weather platform.
 
 </div>
 
