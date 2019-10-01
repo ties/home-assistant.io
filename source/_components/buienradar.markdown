@@ -8,6 +8,7 @@ ha_category:
 ha_release: 0.47
 ha_iot_class: Cloud Polling
 redirect_from:
+ - /components/camera.buienradar/
  - /components/weather.buienradar/
 ---
 
